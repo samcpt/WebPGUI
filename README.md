@@ -3,13 +3,13 @@
 
 ![screenshot](https://github.com/samcpt/webPGUI/blob/master/screenshots/webp_0000_Layer-1.png)
 
-WebP encoding tool GUI is a simple Windows application created with the objective of assisting in the conversion of images to the [WebP format] (https://developers.google.com/speed/webp/) (this format created by Google, allows a much higher compression then JPEG format).
-Because the tool provided by Google is hard to use (command-line only with numerous tuning options via [parameters] (https://developers.google.com/speed/webp/docs/cwebp) ), I decided to create this interface to personal use.
+This is a simple Windows application designed to help you convert images to the [WebP format] (https://developers.google.com/speed/webp/). WebP is a format created by Google that offers significantly higher compression compared to JPEG.
+The Google-provided tools for WebP conversion are command-line based and require configuring various options through [parameters] (https://developers.google.com/speed/webp/docs/cwebp)). This application provides a user-friendly interface to simplify the process.
 
-**NOTE:** This application is at an early stage of development and still contains **many errors/many features are not yet available**. If there is a large public interest, I can improve the application. This is my first C# application so use the application at your risk and **be friendly with your criticism** :+1:
+**NOTE:** This application is at an early stage of development and still contains **many errors/many features are not yet available**. If there is a large public interest, I can improve the application. This is my first C# application, so use it at your own risk. I appreciate constructive criticism! :+1:
 
 ## Installation
-##### Download the installer from: https://dl.orangedox.com/5YMZB2Zy7il6MyEXmu (0.8 MB)
+##### Download the installer from the releases page https://github.com/samuelcarreira/webPGUI/releases
 (Google Chrome flags this installer as malicious because it isn't signed, but **you can safelly ignore the warning** :sunglasses: )
 
 ...or Compile the source code with Visual Studio 2015 and run the utility.
